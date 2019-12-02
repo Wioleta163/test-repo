@@ -11,6 +11,7 @@ namespace DrugaAplikacjaKonsolowa
         static void Main(string[] args)
         {
             Console.WriteLine("Cośtamcoś");
+            Console.WriteLine("Edycja");
             Console.ReadKey();
         }
     }
