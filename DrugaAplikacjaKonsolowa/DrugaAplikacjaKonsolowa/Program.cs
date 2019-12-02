@@ -10,7 +10,7 @@ namespace DrugaAplikacjaKonsolowa
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("CośtamcośGitHub");
+            Console.WriteLine("CośtamcośGitHub2");
             Console.WriteLine("Edycja");
             Console.ReadKey();
         }
