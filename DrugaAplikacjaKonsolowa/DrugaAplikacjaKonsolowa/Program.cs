@@ -13,7 +13,7 @@ namespace DrugaAplikacjaKonsolowa
             Console.WriteLine("CośtamcośGitHub2");
             Console.WriteLine("Edycja");
             Console.ReadKey();
-            Console.WriteLine("test");
+            Console.WriteLine("I co teraz");
         }
     }
 }
